@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Авторизація користувача"
+AuthUserFile D:\OpenServer\domains\magnis\.htpasswd
+Require valid-user

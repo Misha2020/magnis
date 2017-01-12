@@ -1,0 +1,24 @@
+a{
+    font-size: 15px;
+}
+
+.note{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.note p {
+    text-align: justify;
+}
+
+footer, header{
+    text-align: center;
+}
+
+.delete{
+    float: right;
+}
+
+.edit{
+    text-align: left;
+}
